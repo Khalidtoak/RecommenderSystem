@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RecommenderSystem</string>
+    <string name="hello_welcome_to_onikolo_let_us_help_you_make_the_best_widthrawal">Hello, welcome to onikolo, Let us help you make the best widthrawal</string>
+    <string name="amount_in_naira">amount in naira</string>
+    <string name="glory_trust_bank">Glory trust bank</string>
+    <string name="apex_bank">Apex Bank</string>
+    <string name="standard_charts">Standard Charts</string>
+    <string name="recommend">Recommend</string>
+</resources>
